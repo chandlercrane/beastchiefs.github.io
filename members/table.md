@@ -10,3 +10,5 @@
 | Phil Rim            | 2019  |  Finance                  |          |    127       |     123     |      121      |      109     |
 | Peter Spallito      | 2019  |  Music, Pre-Medical       |          |  319 (RA)    |     124     |      121      |      ?       |
 | Will Tittle         | 2019  |  Mechanical Engineering   |          |    103       |     103     |      103      |      113     |
+
+> **Please Note:** Not all Beastchiefs are listed!
