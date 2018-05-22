@@ -8,7 +8,11 @@
 | Pat O'Shea          | 2019  |  Pre-Medical              |          | *Off Campus* |     215     |      121      |      120     |
 | Zach Prephan        | 2019  |  Finance                  |          | *Off Campus* |     121     |      109      |      111     |
 | Phil Rim            | 2019  |  Finance                  |          |    127       |     123     |      121      |      109     |
+| Michael Scully      | 2019  |  Economics                |          |    126       |     106     |      123      | *St. John's* |
+| Mario Simone        | 2019  |  Accounting               |          |    103       |     106     |      106      | *Holy Cross* |
 | Peter Spallito      | 2019  |  Music, Pre-Medical       |          |  319 (RA)    |     124     |      121      |      ?       |
 | Will Tittle         | 2019  |  Mechanical Engineering   |          |    103       |     103     |      103      |      113     |
+
+
 
 > **Please Note:** Not all Beastchiefs are listed!
