@@ -5,8 +5,11 @@
 | Ryan Doyle          | 2019  |  Science Business         |          | *Off Campus* |     123     |      121      |      120     |
 | Nick Gabriele       | 2019  |  Economics                |          |    124       |     124     |      108      |      111     |
 | Ryan Green          | 2019  |  Computer Engineering     |          | *Off Campus* |     121     |      107      |      ?       |
+| Alex Kiess          | 2019  |  Mechanical Engineering   |          | *Off Campus* |     121     |      109      |    *Zahm*    |
 | Zach Lawson         | 2019  |  FTT                      |          | *Off Campus* |     125     |      105      |      107     |
+| Andy Nemecek        | 2019  |  Computer Engineering     |          |    103       |     103     |      103      |      ?       |
 | Pat O'Shea          | 2019  |  Pre-Medical              |          | *Off Campus* |     215     |      121      |      120     |
+| Sully O'Hara        | 2019  |  FTT                      |          | *Off Campus* |     125     |      105      | *Keough 2A*  |
 | Zach Prephan        | 2019  |  Finance                  |          | *Off Campus* |     121     |      109      |      111     |
 | Phil Rim            | 2019  |  Finance                  |          |    127       |     123     |      121      |      109     |
 | Michael Scully      | 2019  |  Economics                |          |    126       |     106     |      123      | *St. John's* |
