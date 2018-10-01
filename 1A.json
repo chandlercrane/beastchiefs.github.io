@@ -1,0 +1,182 @@
+{
+  "1A" : {
+    "members" : {
+      "2020"  : [
+        {
+          "firstName"   : "Chandler",
+          "nickName"    : "Chandler",
+          "lastName"    : "Crane",
+          "major"       : ["Computer Science"],
+          "minor"       : [],
+          "startYear"   : 2016,
+          "gradYear"    : 2020,
+          "rooms"       : [111, 111, 108, 108, 108, -3, -1, -1]
+        },
+        {
+          "firstName"   : "William",
+          "nickName"    : "Will",
+          "lastName"    : "Cunningham",
+          "major"       : ["Mechanical Engineering"],
+          "minor"       : [],
+          "startYear"   : 2016,
+          "gradYear"    : 2020,
+          "rooms"       : [111, 111, 108, 108, 108, 108, -2, -2]
+        },
+        {
+          "firstName"   : "Ian",
+          "nickName"    : "Ian",
+          "lastName"    : "Marquez",
+          "major"       : ["Mechanical Engineering"],
+          "minor"       : [],
+          "startYear"   : 2016,
+          "gradYear"    : 2020,
+          "rooms"       : [0, 0, 107, 107, 0, 0, -1, -1]
+        },
+        {
+          "firstName"   : "Ramon",
+          "nickName"    : "Ramon",
+          "lastName"    : "Villafana",
+          "major"       : ["Chemical Engineering"],
+          "minor"       : [],
+          "startYear"   : 2016,
+          "gradYear"    : 2020,
+          "rooms"       : [0, 0, 107, 107, 0, 0, -1, -1]
+        },
+        {
+          "firstName"   : "Liam",
+          "nickName"    : "Liam",
+          "lastName"    : "Griffin",
+          "major"       : ["Physics"],
+          "minor"       : [],
+          "startYear"   : 2016,
+          "gradYear"    : 2020,
+          "rooms"       : [0, 0, 105, 105, 125, 125, 0, 0]
+        },
+        {
+          "firstName"   : "Cristian",
+          "nickName"    : "Cristian",
+          "lastName"    : "Hererra",
+          "major"       : ["IT Management"],
+          "minor"       : [],
+          "startYear"   : 2016,
+          "gradYear"    : 2020,
+          "rooms"       : [115, 115, 105, 105, 125, 125, 0, 0]
+        },
+        {
+          "firstName"   : "Sean",
+          "nickName"   : "Sean",
+          "lastName"    : "O'Brien",
+          "major"       : ["Finance"],
+          "minor"       : [],
+          "startYear"   : 2016,
+          "gradYear"    : 2020,
+          "rooms"       : [115,115, 0, 0, 0, -3, -1, -1]
+        }
+      ],
+      "2019"  : [
+        {
+          "firstName"   : "Nick",
+          "nickName"    : "Nick",
+          "lastName"    : "Gabriele",
+          "major"       : ["Economics"],
+          "minor"       : ["Spanish"],
+          "startYear"   : 2015,
+          "gradYear"    : 2019,
+          "rooms"       : [0, 0, 108, 108, 124, 124, 124, 124]
+        },
+        {
+          "firstName"   : "Matthew",
+          "nickName"    : "Matt",
+          "lastName"    : "Chignoli",
+          "major"       : ["Mechanical Engineering"],
+          "minor"       : [],
+          "startYear"   : 2015,
+          "gradYear"    : 2019,
+          "rooms"       : [0, 0, 108, 108, 121, 121, -1, -1]
+        },
+        {
+          "firstName"   : "Patrick",
+          "nickName"    : "Pat",
+          "lastName"    : "O'Shea",
+          "major"       : ["Biology", "Pre-Medical"],
+          "minor"       : [],
+          "startYear"   : 2015,
+          "gradYear"    : 2019,
+          "rooms"       : [0, 0, 121, 121, -3, 0, -1, -1]
+        },
+        {
+          "firstName"   : "Ryan",
+          "nickName"    : "Ryan",
+          "lastName"    : "Doyle",
+          "major"       : ["Science Business"],
+          "minor"       : [],
+          "startYear"   : 2015,
+          "gradYear"    : 2019,
+          "rooms"       : [0, 0, 121, 121, 123, 123, -1, -1]
+        },
+        {
+          "firstName"   : "Zachary",
+          "nickName"    : "Zach",
+          "lastName"    : "Lawson",
+          "major"       : ["FTT"],
+          "minor"       : [],
+          "startYear"   : 2015,
+          "gradYear"    : 2019,
+          "rooms"       : [0, 0, 105, 105, 125, 125, -1, -1]
+        },
+        {
+          "firstName"   : "Zachary",
+          "nickName"    : "Zach",
+          "lastName"    : "Prephan",
+          "major"       : ["Finance"],
+          "minor"       : [],
+          "startYear"   : 2015,
+          "gradYear"    : 2019,
+          "rooms"       : [0, 0, 109, 109, 121, 121, -1, -1]
+        },
+        {
+          "firstName"   : "Sullivan",
+          "nickName"    : "Sully",
+          "lastName"    : "O'Hara",
+          "major"       : ["FTT"],
+          "minor"       : [],
+          "startYear"   : 2015,
+          "gradYear"    : 2019,
+          "rooms"       : [0, 0, 105, 105, 125, 125, -1, -1]
+        },
+        {
+          "firstName"   : "Phil",
+          "nickName"    : "Phil",
+          "lastName"    : "Rim",
+          "major"       : ["Accounting"],
+          "minor"       : [],
+          "startYear"   : 2015,
+          "gradYear"    : 2019,
+          "rooms"       : [0, 0, 121, 121, 123, 123, 127, 127]
+        }
+      ],
+      "2021"  : [
+        {
+          "firstName"   : "Patrick",
+          "nickName"    : "Patrick",
+          "lastName"    : "Huurman",
+          "major"       : ["Political Science"],
+          "minor"       : [],
+          "startYear"   : 2017,
+          "gradYear"    : 2021,
+          "rooms"       : [109, 109, 121, 121, 0, 0, 0, 0]
+        },
+        {
+          "firstName"   : "Michael",
+          "nickName"    : "Mike",
+          "lastName"    : "Bianco",
+          "major"       : ["Accounting"],
+          "minor"       : [],
+          "startYear"   : 2017,
+          "gradYear"    : 2021,
+          "rooms"       : [110, 110, 107, 107, 0, 0, 0, 0]
+        }
+      ]
+    }
+  }
+}
