@@ -241,8 +241,8 @@
         "codes"   : {
           "-3"          : "Study Abroad",            
           "-2"          : "Residence Assistant",            
-          "-1"          : "Off Campus,            
-          "0"           : "Unknown",                  
+          "-1"          : "Off Campus",            
+          "0"           : "Unknown"                  
     }
   }
 }
