@@ -1,30 +1,111 @@
----
-layout: default
-title: Beastchiefs
----
-<style>
-.grid-container {
-  display: grid;
-  grid-template-columns: auto auto auto auto;
-  grid-gap: 10px;
-  padding: 10px;
-}
-</style>
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Beastchiefs</title>
 
-<div class="blurb">
-	<h1>Welcome to Keough 1A. Home of the Beastchiefs!</h1>
-	<p>
-		<strong>We would like to take this time to thank our backers: </strong><br/>
-		<h1><strong>VIP</strong></h1>
-		<img src="/docs/assets/img/patrons/ryanG.png" width="110" height="140">
-		<img src="/docs/assets/img/patrons/matt.png" width="130" height="140">
-		<img src="/docs/assets/img/patrons/ryanD.png" width="130" height="140">
-		<br/>
-		<h1><strong>Supporters</strong></h1>
-		<br/>
-		<img src="/docs/assets/img/patrons/nick.png" width="125" height="140">
-		<img src="/docs/assets/img/patrons/cristian.png" width="90" height="140">
-		<br/>
-		<a href="/members">See the rest of our members here!</a>
-	</p>
-</div>
+    <!-- Bootstrap -->
+    <link href="css/bootstrap-4.0.0.css" rel="stylesheet">
+
+  </head>
+  <body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+       <a class="navbar-brand" href="#">Beastchiefs</a>
+       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+       <span class="navbar-toggler-icon"></span>
+       </button>
+       <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav mr-auto">
+             <li class="nav-item active">
+                <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+             </li>
+             <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                Members
+                </a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                   <a class="dropdown-item" href="#">Seniors</a>
+                   <a class="dropdown-item" href="#">Juniors</a>
+                   <a class="dropdown-item" href="#">Sophomores</a>
+                   <a class="dropdown-item" href="#">Freshmen</a>
+                </div>
+             </li>
+          </ul>
+          <form class="form-inline my-2 my-lg-0">
+             <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+		    <button type="button" class="btn btn-primary">Search</button>
+          </form>
+       </div>
+    </nav>
+
+    <div class="jumbotron jumbotron-fluid text-center">
+       <h1 class="display-4">Beastchiefs</h1>
+       <p class="lead">Meet the storied members of <strong>Keough 1A.</strong></p>
+       <p class="lead">
+		<a class="btn btn-danger btn-lg" href="http://roos.nd.edu" role="button">Keough Website</a>
+       </p>
+    </div>
+    <div class="container">
+       <br>
+       <div class="row">
+          <div class="col-md-4">
+             <div class="card">
+                <div class="card-body">
+                   <h4 class="card-title">Calendar</h4>
+                   <p class="card-text">View the <strong>events</strong> that are going on for the Beastchiefs.</p>
+                   <a href="#" class="btn btn-primary">View Calendar</a>
+                </div>
+             </div>
+          </div>
+          <div class="col-md-4">
+             <div class="card">
+                <div class="card-body">
+                   <h4 class="card-title">Members</h4>
+                   <p class="card-text">View the past and current <strong>members</strong> of Keough 1A.</p>
+                   <a href="#" class="btn btn-primary">View Members</a>
+                </div>
+             </div>
+          </div>
+		  <div class="col-md-4">
+            <div class="card">
+               <div class="card-body">
+                  <h4 class="card-title">Contact</h4>
+                  <p class="card-text">Send a message to the <strong>Beastchiefs</strong> of Keough 1A.</p>
+                  <a href="#" class="btn btn-primary">Communicate</a>
+               </div>
+            </div>
+         </div>    
+       </div>
+       <br/>
+          <div class="text-center col-md-6 col-xl-12">
+             <div class="card">
+                <div class="card-body">
+                   <h3><strong>Contribute</strong> to our site</h3>
+                  <p>Help us build our website. Contact us with mistakes or improvements to make it better. We are especially looking for people with the following interests and skills</p>
+                  	<span class="badge badge-info">HTML</span>
+					<span class="badge badge-danger">CSS</span>
+					<span class="badge badge-primary">Python</span>
+			    	<span class="badge badge-dark">Quick Worker</span>
+					<span class="badge badge-success">Responsible</span>
+				 </div>
+             </div>
+          </div>
+       <br>
+       <div class="row">
+         <div class="text-center col-lg-6 offset-lg-3">
+           <h4>Beastchiefs </h4>
+           <p>Copyright &copy; 2018 &middot; All Rights Reserved &middot; <a href="http://roos.nd.edu">Keough Website</a></p>
+         </div>
+       </div>
+  </div>
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
+    <script src="js/jquery-3.2.1.min.js"></script>
+
+    <!-- Include all compiled plugins (below), or include individual files as needed --> 
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap-4.0.0.js"></script>
+  </body>
+	<br/>
+</html>
