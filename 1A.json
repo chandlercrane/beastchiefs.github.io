@@ -235,6 +235,38 @@
           "startYear"   : 2017,
           "gradYear"    : 2021,
           "rooms"       : [110, 110, 107, 107, 0, 0, 0, 0]
+        },
+        {
+          "firstName"   : "Alexander",
+          "nickName"    : "Alex",
+          "lastName"    : "Witte",
+          "major"       : ["Physics"],
+          "minor"       : [],
+          "startYear"   : 2017,
+          "gradYear"    : 2021,
+          "rooms"       : [115, 115, 121, 121, 0, 0, 0, 0]
+        }
+      ]
+     "2022"   : [
+        {
+          "firstName"   : "Connor",
+          "nickName"    : "Connor",
+          "lastName"    : "Leonard",
+          "major"       : ["Finance"],
+          "minor"       : [],
+          "startYear"   : 2018,
+          "gradYear"    : 2022,
+          "rooms"       : [115, 115, 0, 0, 0, 0, 0, 0]
+        },
+        {
+          "firstName"   : "Matthew",
+          "nickName"    : "Matt",
+          "lastName"    : "Downing",
+          "major"       : ["Math"],
+          "minor"       : [],
+          "startYear"   : 2018,
+          "gradYear"    : 2022,
+          "rooms"       : [109, 109, 0, 0, 0, 0, 0, 0]
         }
       ]
     },
